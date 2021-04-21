@@ -1,0 +1,6 @@
+__pycache__
+.vscode
+instance/
+.webassets-cache
+*.py[cod]
+*$py.class
